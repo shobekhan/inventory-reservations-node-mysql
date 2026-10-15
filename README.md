@@ -1,3 +1,7 @@
+# Article
+
+https://shopify.engineering/scaling-inventory-reservations
+
 # Node + MySQL Inventory Reservations
 
 TypeScript + Node.js + MySQL 8 implementation of an inventory reservation pool using `FOR UPDATE SKIP LOCKED`.
